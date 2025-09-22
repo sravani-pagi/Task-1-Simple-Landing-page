@@ -1,4 +1,5 @@
 **Simple Landing Page**
+
 A responsive and simple landing page built using HTML and CSS. This project demonstrates basic web development principles, including semantic HTML structure and modern CSS for styling and responsiveness.
 
 **Features**
@@ -18,3 +19,4 @@ A responsive and simple landing page built using HTML and CSS. This project demo
 
 **Outcome**
 Demonstrates foundational web development skills: HTML structure, CSS layout, Flexbox, and responsive design.
+
